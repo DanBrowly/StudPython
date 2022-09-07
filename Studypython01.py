@@ -12,7 +12,7 @@ else:
   print(x, 'é Igual')
   
 #-----------------
-idk thi code
+#idk thi code
 
 a = 30
 b = 20
